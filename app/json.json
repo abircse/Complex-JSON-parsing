@@ -1,0 +1,49 @@
+[{
+		"pron": [
+			"",
+			"Bahana ana"
+		],
+		"bn": "বহন অন",
+		"en": "carry-on",
+		"bn_syns": [],
+		"en_syns": [],
+		"sents": [
+			"And it can be attached to purses, laptops, <b>carry-ons</b> , and suitcases.",
+			"Though the no-bags option is an appealing one, I think I'll stick to <b>carry-on</b> luggage."
+		]
+    },
+
+    {
+		"pron": [
+			"ˈkarēər",
+			"Bāhaka"
+		],
+		"bn": "বাহক",
+		"en": "carrier",
+		"bn_syns": [
+			"বহনকারী",
+			"জঙ্গী বিমান",
+			"বাহক",
+			"সংবাহক",
+			"গাড়ী",
+			"মুটে",
+			"বেয়ারা",
+			"ধারয়িতা",
+			"বরদার"
+		],
+		"en_syns": [
+			"bearer",
+			"conveyor",
+			"transporter",
+			"shipper",
+			"courier",
+			"hauler",
+			"porter"
+		],
+		"sents": [
+			"Case Slick uses an alcohol <b>carrier</b> that evaporates and leaves just a little lube on the case.",
+			"In contrast, the sea waybill is only a contract of carriage whereby the <b>carrier</b> undertakes to deliver the cargo to the person identified by the shipper as entitled to take delivery of the cargo."
+		]
+	}
+
+]
